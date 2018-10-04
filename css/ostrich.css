@@ -8,6 +8,10 @@ html {
   right: 0;
 }
 
-@media (max-width: )
+@media (max-width: 1400px) {
+  #ostrich {
+    top: 150px;
+  }
+}
 /* Write your solution here */
 
